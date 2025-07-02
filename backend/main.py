@@ -13,7 +13,7 @@ def get_items():
         {
             "id": 1,
             "name": "Docker",
-            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Docker_logo.png/250px-Docker_logo.png",
+            "img": "https://static-00.iconduck.com/assets.00/docker-icon-2048x2048-5mc7mvtn.png",
         },
         {
             "id": 2,
