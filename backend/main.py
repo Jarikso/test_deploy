@@ -33,7 +33,7 @@ def get_items():
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "http://localhost:5173",
+        # "http://localhost:5173",
         "http://194.87.43.206",
         # "https://site-test-deploy1.ru",
     ],
