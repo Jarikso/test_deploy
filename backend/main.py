@@ -13,12 +13,12 @@ def get_items():
         {
             "id": 1,
             "name": "Docker",
-            "img": "https://static-00.iconduck.com/assets.00/docker-icon-2048x2048-5mc7mvtn.png",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Docker_logo.png/250px-Docker_logo.png",
         },
         {
             "id": 2,
             "name": "Nginx",
-            "img": "https://www.svgrepo.com/show/373924/nginx.svg",
+            "img": "https://nginx.org/img/nginx_logo_dark.png",
         },
         {
             "id": 3,
